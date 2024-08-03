@@ -1,4 +1,4 @@
-# Automation Projects
+# AutoAlchemy Automation Projects
 
 Welcome! This collection of scripts is designed to automate various tasks, from network monitoring and messaging to Instagram story management. Each project is structured to provide specific functionalities and can be tailored to suit individual needs. 
 
